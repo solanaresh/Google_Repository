@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-//sample project
+//sample project google service
 @SpringBootApplication
 @ComponentScan(basePackages = {
 "com.tutorialspoint.projects.googleservice.config"})
